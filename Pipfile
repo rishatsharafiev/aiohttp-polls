@@ -13,6 +13,7 @@ name = "pypi"
 
 aiohttp = "==3.3.2"
 pytest = "*"
+trafaret-config = "*"
 
 
 [requires]
