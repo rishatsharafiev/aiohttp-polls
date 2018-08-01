@@ -21,3 +21,5 @@ playground/*
 .cache/*
 .coverage
 coverage.svg
+.pytest_cache
+.pytest_cache/*
